@@ -1,6 +1,4 @@
-# pop-repos-and-battle
-
----
+# GitHub Pop Repos/Battles
 
 ## Webpack bundled React app that displays most popular GitHub repos sorted by programming language and stars; can also compare 2 users or "battle" by entering their GitHub usernames and view their GitHub stats
 
