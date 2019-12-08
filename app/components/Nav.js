@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { ThemeConsumer } from '../contexts/theme'
 import { NavLink } from 'react-router-dom'
 

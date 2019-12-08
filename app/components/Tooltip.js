@@ -34,7 +34,7 @@ function Tooltip ({ text, children }) {
         </div>
       )}
     </Hover>
-  );
+  )
 }
 
 Tooltip.propTypes = {

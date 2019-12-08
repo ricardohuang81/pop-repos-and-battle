@@ -66,7 +66,7 @@ function RepoGrid ({ repos }) {
               </ul>
             </Card>
           </li>
-        );
+        )
       })}
     </ul>
   )

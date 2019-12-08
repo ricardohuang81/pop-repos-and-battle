@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react'
 import { battle } from '../utils/api'
 import { GiMadScientist, GiCompass, GiThorHammer, GiShadowFollower } from "react-icons/gi"
-import { FaUsers, FaCode } from "react-icons/fa"
+import { FaUsers } from "react-icons/fa"
 import Card from './Card'
 import PropTypes from 'prop-types'
 import Loading from './Loading'
