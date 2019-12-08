@@ -7,5 +7,4 @@
 ### Deployed to Netlify: [https://confident-pare-558424.netlify.com/](https://confident-pare-558424.netlify.com/)
 
 * Makes use of React Router, Class Fields Syntax, React.lazy + React.Suspense for Code Splitting, GitHub API, Webpack, etc.
-
 * Features: Light/Dark Mode + React Icons
