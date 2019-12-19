@@ -7,7 +7,7 @@ import Loading from './Loading'
 import Tooltip from './Tooltip'
 
 function LanguagesNav ({ selected, onUpdateLanguage }) {
-  const languages = ['All', 'JavaScript', 'CSS', 'TypeScript', 'Dart', 'Swift', 'Ruby', 'Java', 'Kotlin', 'Python', 'Go', 'C', 'Rust', 'PHP', 'Liquid', 'Apex', 'BrightScript', 'SQL']
+  const languages = ['All', 'JavaScript', 'CSS', 'TypeScript', 'Dart', 'Swift', 'Ruby', 'Java', 'Kotlin', 'Python', 'Go', 'C', 'Rust', 'PHP', 'Liquid', 'Apex', 'BrightScript', 'Haskell']
   return (
     <ul className="flex-center">
       {languages.map(language => (
